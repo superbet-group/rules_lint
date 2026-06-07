@@ -500,7 +500,7 @@ ruamel-yaml==0.19.0 \
     --hash=sha256:96ea8bafd9f3fdb0181ce3cc05e6ec02ce0a8788cbafa9b5a6e47c76fe26dfc6 \
     --hash=sha256:ff19233e1eb3e9301e7a3d437847713e361a80faace167639327efbe8c0e5f95
     # via scaffold-test-4309 (pyproject.toml)
-ruamel-yaml-clibz==0.3.4 \
+ruamel-yaml-clibz==0.3.7 \
     --hash=sha256:e99077ac6aa4943af1000161a0cb793a379c5c8cd03ea8dd3803e0b58739b685
     # via ruamel-yaml
 sarif-om==1.0.4 \
@@ -598,3 +598,5 @@ zipp==3.23.0 \
     --hash=sha256:071652d6115ed432f5ce1d34c336c0adfd6a884660d1e9712a256d3d3bd4b14e \
     --hash=sha256:a07157588a12518c9d4034df3fbbee09c814741a33ff63c05fa29d26a2404166
     # via importlib-metadata
+ruamel.yaml.clibz==0.3.7 \
+    --hash=sha256:2be85214793cfc787eb12380fa3226e10cd7727b24551c3067c173d66c9bedd9
